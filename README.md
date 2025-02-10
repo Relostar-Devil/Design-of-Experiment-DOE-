@@ -1,9 +1,9 @@
-# ** Project Overview**
+# Project Overview
 
 
 This repository contains a Design of Experiments (DOE) project conducted as part of SCM 517. The objective was to design and optimize a Lego race car using statistical experiments to maximize the distance traveled. The project follows a structured approach, leveraging Minitab for data analysis and factorial design techniques.
 
-# **. Repository Contents**
+# **Repository Contents**
 
 
 Legos.pdf – Project guidelines, constraints, and Bill of Materials (BOM).
